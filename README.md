@@ -6,6 +6,7 @@ for example if you start set environment(reward=12, reward_1=3, punish_2=15, sta
 <img src="https://user-images.githubusercontent.com/54494078/128131181-a0afb97e-fdd3-4e28-ac9f-cfd7d8c5f790.png" width="300" height="300" align = 'center' >
 
 or if you set environment(reward=0, punish_1=3, punish_2=12, start=15) result is:
+
 <img src="https://user-images.githubusercontent.com/54494078/128131601-df776a7e-a9a0-4b99-bcb4-4ca0a3718ab7.png" width="300" height="300" align = 'center' >
 
 ## hyperparameters:
